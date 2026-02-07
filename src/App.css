@@ -2,7 +2,7 @@ body{
   background-color: rgb(31, 4, 57);
   color: wheat;
 }
-.img{
-  width: 80px;
-  height: auto;
+img{
+  width: 200px;
+  height: 400px;
 }
