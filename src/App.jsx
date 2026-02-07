@@ -6,7 +6,8 @@ import { ProjectCard } from './Component/ProjectCard'
   const products = [
   { title: 'Pokemon Table', id: 1 , description: 'This is a project that displays a table of Pokemon characters and their attributes.',link:"https://github.com/quandagr/Pokemon_Table.git"},
   { title: 'Weather Webpage', id: 2, description: 'This is a project that displays weather information for different locations.',link:"https://github.com/quandagr/current-weather.git"},
-  { title: 'Calculator', id: 3, description: 'This is a simple calculator application.',link:"https://github.com/quandagr/Interactive-Calclator.git"}
+  { title: 'Calculator', id: 3, description: 'This is a simple calculator application.',link:"https://github.com/quandagr/Interactive-Calclator.git"},
+  { title: 'Weather App', id: 4, description: 'This is a weather application that displays current weather information.',link:"https://weatherapp1987.netlify.app/"}
 ];
   return (
     <><main className= "d-flex flex-row align-items-center justify-content-center">
