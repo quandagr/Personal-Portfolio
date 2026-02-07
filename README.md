@@ -60,14 +60,7 @@ The layout is responsive and visually structured.
 
 Each card includes a clear call-to-action button linking to the GitHub repository or live demo.
 
-📸 Screenshots
-Final Browser View
-(Insert screenshot of the completed portfolio displaying project cards)
 
-🔗 Submission Details
-GitHub Repository: [Insert public repository link]
-
-Screenshot: Included above
 
 ✅ Learning Outcomes
 Building reusable React components
